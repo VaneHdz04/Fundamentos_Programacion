@@ -1,0 +1,133 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+marca
+1
+0
+6
+origen
+1
+0
+5
+costo
+1
+0
+6
+2
+8
+impuesto
+1
+0
+11
+precioVenta
+1
+0
+4
+1
+32
+'Ingresa la marca del automovil'
+5
+1
+5
+marca
+4
+1
+68
+'Ingresa el origen del automovil: 1.Alemania 2.Japón 3.Italia 4.USA'
+5
+1
+6
+origen
+4
+1
+32
+'Ingresa el costo del automovil'
+5
+1
+5
+costo
+7
+0
+1
+10
+origen = 1
+7
+0
+1
+10
+origen = 2
+7
+0
+1
+10
+origen = 3
+7
+0
+1
+10
+origen = 4
+4
+1
+42
+'No ingresaste un numero de origen valido'
+13
+6
+1
+8
+impuesto
+17
+(costo * 8) / 100
+13
+13
+6
+1
+8
+impuesto
+18
+(costo * 15) / 100
+13
+13
+6
+1
+8
+impuesto
+18
+(costo * 30) / 100
+13
+13
+6
+1
+8
+impuesto
+18
+(costo * 20) / 100
+13
+6
+1
+11
+precioVenta
+16
+costo + impuesto
+4
+1
+16
+'Marca: ', marca
+4
+1
+18
+'Origen: ', origen
+4
+1
+22
+'Impuesto: ', impuesto
+4
+1
+32
+'Precio de Venta: ', precioVenta
+1
