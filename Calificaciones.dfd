@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+cal1
+1
+0
+4
+cal2
+1
+0
+4
+cal3
+1
+0
+6
+2
+4
+cal4
+1
+0
+8
+promedio
+1
+0
+4
+1
+28
+'Ingrese las calificaciones'
+5
+1
+22
+cal1, cal2, cal3, cal4
+6
+1
+8
+promedio
+29
+(cal1 + cal2 + cal3 + cal4)/4
+4
+1
+27
+'Su promedio es:', promedio
+7
+0
+1
+13
+promedio >= 6
+4
+1
+25
+'Lo siento, no aprobaste'
+13
+4
+1
+23
+'Felicidades aprobaste'
+13
+1
