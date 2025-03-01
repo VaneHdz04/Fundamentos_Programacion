@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+horas
+1
+0
+7
+minutos
+1
+0
+8
+segundos
+1
+0
+6
+1
+4
+dias
+1
+0
+4
+1
+35
+'Ingrese un numero de horas entero'
+5
+1
+5
+horas
+6
+3
+8
+minutos 
+8
+horas*60
+8
+segundos
+11
+horas *3600
+4
+dias
+8
+horas/24
+4
+1
+20
+'Minutos: ', minutos
+4
+1
+22
+'Segundos: ', segundos
+4
+1
+14
+'Dias: ', dias
+1
