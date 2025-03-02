@@ -1,0 +1,157 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+13
+nombreCliente
+1
+0
+11
+tipoCliente
+1
+0
+13
+cantidadHojas
+1
+0
+6
+3
+10
+costoHojas
+1
+0
+8
+subtotal
+1
+0
+9
+descuento
+1
+0
+6
+1
+4
+neto
+1
+0
+4
+1
+19
+'Ingrese su nombre'
+5
+1
+13
+nombreCliente
+4
+1
+46
+'Ingrese con numero el tipo de cliente que es'
+5
+1
+11
+tipoCliente
+4
+1
+41
+'Ingrese la cantidad de hojas que compro'
+5
+1
+13
+cantidadHojas
+4
+1
+40
+'Ingrese el costo de las hojas de hielo'
+5
+1
+10
+costoHojas
+6
+1
+8
+subtotal
+26
+costoHojas * cantidadHojas
+7
+0
+1
+15
+tipoCliente = 1
+7
+0
+1
+15
+tipoCliente = 2
+7
+0
+1
+15
+tipoCliente = 3
+7
+0
+1
+15
+tipoCliente = 4
+4
+1
+43
+'No ingresaste un numero de cliente valido'
+13
+6
+1
+9
+descuento
+21
+(subtotal * 15) / 100
+13
+13
+6
+1
+9
+descuento
+21
+(subtotal * 12) / 100
+13
+13
+6
+1
+9
+descuento
+20
+(subtotal * 8) / 100
+13
+13
+6
+1
+9
+descuento
+20
+(subtotal * 5) / 100
+13
+6
+1
+4
+neto
+18
+subtotal-descuento
+4
+1
+37
+'Nombre del cliente: ', nombreCliente
+4
+1
+36
+'El subtotal a pagar es: ', subtotal
+4
+1
+48
+'El descuento por ser cliente tipo: ', descuento
+4
+1
+28
+'El Neto a pagar es: ', neto
+1
