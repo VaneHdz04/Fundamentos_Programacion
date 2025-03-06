@@ -1,0 +1,113 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+numMes
+1
+0
+4
+1
+26
+'Ingresa un numero de mes'
+5
+1
+6
+numMes
+7
+0
+1
+23
+numMes>=1 and numMes<=2
+7
+0
+1
+10
+numMes = 3
+7
+0
+1
+23
+numMes>=4 and numMes<=5
+7
+0
+1
+10
+numMes = 6
+7
+0
+1
+23
+numMes>=7 and numMes<=8
+7
+0
+1
+10
+numMes = 9
+7
+0
+1
+25
+numMes>=10 and numMes<=11
+7
+0
+1
+11
+numMes = 12
+4
+1
+32
+'No ingresaste un numero valido'
+13
+4
+1
+17
+'Otonio-Invierno'
+13
+13
+4
+1
+8
+'Otonio'
+13
+13
+4
+1
+15
+'Verano-Otonio'
+13
+13
+4
+1
+8
+'Verano'
+13
+13
+4
+1
+18
+'Primavera-Verano'
+13
+13
+4
+1
+11
+'Primavera'
+13
+13
+4
+1
+20
+'Invierno-Primavera'
+13
+13
+4
+1
+10
+'Invierno'
+13
+1
