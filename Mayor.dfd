@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+numero1
+1
+0
+7
+numero2
+1
+0
+7
+numero3
+1
+0
+6
+1
+5
+mayor
+1
+0
+4
+1
+22
+'Ingrese tres numeros'
+5
+1
+25
+numero1, numero2, numero3
+7
+0
+1
+17
+numero1 > numero2
+6
+1
+5
+mayor
+7
+numero2
+13
+6
+1
+6
+mayor 
+7
+numero1
+13
+7
+0
+1
+15
+numero3 > mayor
+13
+6
+1
+5
+mayor
+7
+numero3
+13
+4
+1
+29
+'El numero mayor es: ', mayor
+1
