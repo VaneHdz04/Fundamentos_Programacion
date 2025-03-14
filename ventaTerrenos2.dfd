@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+11
+medidaLargo
+1
+0
+11
+medidaAncho
+1
+0
+11
+precioMetro
+1
+0
+6
+1
+11
+precioVenta
+1
+0
+4
+1
+41
+'Ingresa la medida del largo del terreno'
+5
+1
+11
+medidaLargo
+4
+1
+41
+'Ingresa la medida del ancho del terreno'
+5
+1
+11
+medidaAncho
+4
+1
+41
+'Ingresa el precio por metro del terreno'
+5
+1
+11
+precioMetro
+6
+1
+11
+precioVenta
+37
+(medidaAncho*medidaLargo)*precioMetro
+4
+1
+47
+'El precio total del terreno es: ', precioVenta
+1
