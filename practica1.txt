@@ -1,0 +1,48 @@
+public class Objetos {
+    public void suma1 (int arreglosuma1[][]){
+        
+        System.out.println("---Matriz sumando 1---");
+        for (int i = 0; i < arreglosuma1.length; i++) {
+            for (int j = 0; j < arreglosuma1[0].length; j++) {
+                System.out.print("[ " + arreglosuma1[i][j] + " ]");
+            }
+
+            if (i == 1) {
+                System.out.print("  +   ");
+            } else {
+                System.out.print("      ");
+            }  
+            System.out.println("\n"); 
+                              
+        }
+    }
+    
+    public void suma2 (int arreglosuma2[][]){
+        System.out.println("---Matriz sumando 2---");
+       
+        for (int i = 0; i < arreglosuma2.length; i++){
+        for (int j = 0; j < arreglosuma2.length; j++) {
+            System.out.print("[ " + arreglosuma2[i][j] + " ]");
+        }
+        
+        if (i == 1) {
+            System.out.print("  =   ");
+        } else {
+            System.out.print("      ");
+        }
+        System.out.println("\n");
+        }
+    }
+    public void resultado (int arreglosumatotal[][]){
+        System.out.println("---Matriz resultado---");
+        
+        for (int i = 0; i < arreglosumatotal.length; i++){
+            for (int j = 0; j < arreglosumatotal.length; j++) {
+                System.out.print("[ " + arreglosumatotal[i][j] + " ]");
+            }
+            System.out.println("\n");
+        }
+    }
+
+
+}
