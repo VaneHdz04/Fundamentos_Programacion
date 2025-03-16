@@ -1,0 +1,42 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        int noFilas, noColumnas, num, f2, c2;
+        Scanner leer = new Scanner(System.in);
+        System.out.println("Ingrese número de filas");
+        noFilas = leer.nextInt();
+        System.out.println("Ingrese número de columnas");
+        noColumnas = leer.nextInt();
+
+        //Creando el array multidimensional
+        int arreglo[][]= new int [noFilas][noColumnas];
+
+        //Llenar el array multidimensional
+        for(int f=0; f<arreglo.length; f++){
+            for(int c=0; c<arreglo[0].length; c++){
+                System.out.println("Ingrese valor ["+f+"]["+c+"]");
+                arreglo[f][c] = leer.nextInt();
+            }
+        }
+        //Crear el objeto
+        Practica2 obj = new Practica2();
+        obj.imprimir(arreglo);
+
+        //Pedirle un numero entero al usuario para multiplicar la matriz
+        System.out.println("Ingrese número entero para multiplicar la matriz ingresada");
+        num = leer.nextInt();
+        
+        //Creando el array multidimensional
+        int arreglo2[][]= new int [noFilas][noColumnas];
+
+        //Llenar el array multidimensional
+        for(int f=0; f<arreglo2.length; f++){
+            for(int c=0; c<arreglo2[0].length; c++){
+                arreglo2[f*num][c*num] = leer.nextInt();
+            }
+        }
+        //Crear el objeto
+        Prcatica21 objec = new Prcatica21();
+        objec.imprimir(arreglo2);
+    }
+}
