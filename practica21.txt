@@ -1,0 +1,15 @@
+public class Practica2{
+    public void imprimir(int arregloMulti[][]){
+
+        System.out.println("Filas: "+ arregloMulti.length);
+        System.out.println("Columnas: "+ arregloMulti[0].length);
+        for(int f=0; f<arregloMulti.length; f++){
+            for(int c=0; c<arregloMulti[0].length; c++){
+                System.out.print(arregloMulti[f][c]+ "\t");
+            }
+            System.out.println("\n");
+        }
+        
+    }
+    
+}
